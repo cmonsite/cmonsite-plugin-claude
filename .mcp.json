@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cmonsite": {
+      "type": "http",
+      "url": "https://www.cmonsite.fr/mcp"
+    }
+  }
+}

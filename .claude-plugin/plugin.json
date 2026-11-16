@@ -1,0 +1,20 @@
+{
+  "name": "cmonsite",
+  "version": "1.0.0",
+  "description": "Prenez le contrôle de votre site CmonSite : modifiez vos pages, ajoutez des sections, réécrivez vos textes et ajustez le design, directement dans votre éditeur.",
+  "author": {
+    "name": "CmonSite",
+    "url": "https://www.cmonsite.fr"
+  },
+  "homepage": "https://www.cmonsite.fr",
+  "license": "MIT",
+  "keywords": [
+    "cmonsite",
+    "site web",
+    "website builder",
+    "éditeur",
+    "e-commerce",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://www.cmonsite.fr/politique_confidentialite.php"
+}
