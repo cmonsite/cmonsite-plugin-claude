@@ -19,5 +19,6 @@
   "privacyPolicyUrl": "https://www.cmonsite.fr/politique_confidentialite.php",
   "repository": "https://github.com/cmonsite/cmonsite-plugin-claude",
   "documentationUrl": "https://www.cmonsite.fr/site/aide/",
-  "termsOfServiceUrl": "https://www.cmonsite.fr/conditions.php"
+  "termsOfServiceUrl": "https://www.cmonsite.fr/conditions.php",
+  "supportUrl": "https://www.cmonsite.fr/contact.php"
 }

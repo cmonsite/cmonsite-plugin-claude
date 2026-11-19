@@ -53,7 +53,7 @@ Politique de confidentialité : [cmonsite.fr/politique_confidentialite.php](http
 
 ## Support
 
-Pour toute question, contactez le support CmonSite depuis votre espace client sur [cmonsite.fr](https://www.cmonsite.fr).
+Pour toute question, contactez le support CmonSite : [cmonsite.fr/contact.php](https://www.cmonsite.fr/contact.php).
 
 ## Licence
 
