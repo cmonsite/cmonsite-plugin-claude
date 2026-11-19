@@ -9,7 +9,19 @@ Ce plugin connecte Claude à l'éditeur de votre site [CmonSite](https://www.cmo
 
 ## Installation et connexion
 
-1. Installez le plugin `cmonsite`.
+1. Installez le plugin `cmonsite`. Dans Claude Code :
+
+   ```
+   /plugin install cmonsite --marketplace cmonsite/cmonsite-plugin-claude
+   ```
+
+   Sur une version de Claude Code antérieure à 2.1.275, en deux étapes :
+
+   ```
+   /plugin marketplace add cmonsite/cmonsite-plugin-claude
+   /plugin install cmonsite@cmonsite
+   ```
+
 2. À la première utilisation, Claude vous demande d'autoriser l'accès à votre compte CmonSite (connexion OAuth sur cmonsite.fr). Vous pouvez révoquer cet accès à tout moment depuis la rubrique « Applications connectées » de votre administration CmonSite.
 3. Ouvrez l'éditeur de votre site et cliquez sur le bouton de jumelage pour que Claude puisse travailler sur la page affichée.
 

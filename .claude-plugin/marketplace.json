@@ -1,0 +1,17 @@
+{
+  "name": "cmonsite",
+  "owner": {
+    "name": "CmonSite",
+    "url": "https://www.cmonsite.fr"
+  },
+  "metadata": {
+    "description": "Plugin officiel CmonSite pour Claude."
+  },
+  "plugins": [
+    {
+      "name": "cmonsite",
+      "source": "./",
+      "description": "Prenez le contrôle de votre site CmonSite : modifiez vos pages, ajoutez des sections, réécrivez vos textes et ajustez le design, directement dans votre éditeur."
+    }
+  ]
+}

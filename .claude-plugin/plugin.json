@@ -16,5 +16,8 @@
     "e-commerce",
     "mcp"
   ],
-  "privacyPolicyUrl": "https://www.cmonsite.fr/politique_confidentialite.php"
+  "privacyPolicyUrl": "https://www.cmonsite.fr/politique_confidentialite.php",
+  "repository": "https://github.com/cmonsite/cmonsite-plugin-claude",
+  "documentationUrl": "https://www.cmonsite.fr/site/aide/",
+  "termsOfServiceUrl": "https://www.cmonsite.fr/conditions.php"
 }
